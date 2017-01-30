@@ -1,0 +1,15 @@
+a {
+    text-decoration: none !important;
+}
+
+#searchTerm {
+    width: 300px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+#output {
+    margin-top: 20px;
+}
