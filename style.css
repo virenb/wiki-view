@@ -1,15 +1,19 @@
 a {
-    text-decoration: none !important;
+	text-decoration: none !important;
 }
 
 #searchTerm {
-    width: 300px;
+	width: 300px;
 }
 
 .btn {
-    margin-top: 10px;
+	margin-top: 10px;
 }
 
 #output {
-    margin-top: 20px;
+	margin-top: 20px;
+}
+
+.centered {
+	margin: 0 auto;
 }
